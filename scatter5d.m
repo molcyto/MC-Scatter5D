@@ -1,6 +1,42 @@
 function varargout = scatter5d(varargin)
-% Script developed and implemented by Marten Postma 2015, part of the
-% Nature Protocol Bindels et al. publication
+% ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+% This macro accompanies the publication Multi-parameter screening
+% method for developing optimized red fluorescent proteins
+%
+% The macro is part of a bundle of scripts
+%
+% Daphne S. Bindels, Marten Postma, Lindsay Haarbosch,Laura van Weeren
+% and Theodorus W J Gadella Jr*
+%
+% Section of Molecular Cytology, van Leeuwenhoek Centre for Advanced Microscopy,
+% Swammerdam Institute for Life Sciences, University of Amsterdam,
+% Science Park904, 1098XH Amsterdam, The Netherlands
+%
+% Author for correspondence,
+% m //dot// postma //at// uva //dot// nl
+%
+% 16 July 2019
+% ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+% ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+% Copyright (C) 2019 Marten Postma
+% electronic mail address:
+% m //dot// postma //at// uva //dot// nl
+%
+% This program is free software: you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation, either version 3 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program.  If not, see <https://www.gnu.org/licenses/>.
+% ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 % SCATTER5D M-file for scatter5d.fig
 %      SCATTER5D, by itself, creates a new SCATTER5D or raises the existing
