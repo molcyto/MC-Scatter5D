@@ -12,7 +12,7 @@ After starting Matlab, go to the folder that contains scatter5d and run scatter5
 ## Test data
 Test can be downloaded from following zenodo repository : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3347150.svg)](https://doi.org/10.5281/zenodo.3347150)
 
-[download test data](https://zenodo.org/record/3338264/files/Testdata_SupSoftw_7_Scatter5D.zip?download=1)
+[download test data](https://zenodo.org/record/3347150/files/Testdata_SupSoftw_7_Scatter5D.zip?download=1)
 
 ## Screenshot of scatter5d GUI
 <img src="https://github.com/molcyto/MC-Scatter5D/blob/master/ScreenShotScatter5d.png" width="600">
