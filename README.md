@@ -10,7 +10,7 @@ For usage see main manuscript Secondary screen - Multi parameter scatterplot in 
 After starting Matlab, go to the folder that contains scatter5d and run scatter5d, either from the comaand line or via the editor after loading the script. 
 
 ## Test data
-Test can be downloaded from following zenodo repository : https://doi.org/10.5281/zenodo.3338264
+Test can be downloaded from following zenodo repository : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3347150.svg)](https://doi.org/10.5281/zenodo.3347150)
 
 [download test data](https://zenodo.org/record/3338264/files/Testdata_SupSoftw_7_Scatter5D.zip?download=1)
 
